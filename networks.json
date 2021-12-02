@@ -1,0 +1,28 @@
+{
+    "fuji":{
+        "rug":"",
+        "governor":"",
+        "distributor":"",
+        "weth":"",
+        "dai":"",
+        "cdai":"",
+        "harvester":"",
+        "eth_vault":"",
+        "cdai_strat":""
+    },
+    "mainnet":{
+        "weth":"",
+        "cdai":"",
+        "harvester":"",
+        "eth_vault":"",
+        "cdai_strat":"",
+        "wbtc_cdai_strat":"",
+        "ydai_strat":"",
+        "eth_usdc_vault":"",
+        "eth_yusdc_strat":"",
+        "yfi_cdai_strat":"",
+        "rug":"",
+        "timelock":"",
+        "staking":""
+    }
+}
